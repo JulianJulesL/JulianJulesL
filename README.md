@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=julianjules&show_icons=true&locale=en&theme=tokyonight" alt="JulianJulesL" />
+      <img src="https://github-readme-stats.vercel.app/api?username=JulianJulesL&show_icons=true&locale=en&theme=tokyonight" alt="JulianJulesL" />
     </td>
     <td>
       <a href="https://wakatime.com/@julianjules">
